@@ -108,3 +108,7 @@ Ex:
 ```
 chown -R apache:apache /var/www/php74
 ```
+
+## Author
+- [Vincent Nguyen](mailto:vannhd@ethan-tech.com)
+- Don't hesitate to contact me if you get any trouble when installing
